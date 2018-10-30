@@ -88,7 +88,7 @@ exemplo teste bellman-ford
 
 #include <stdio.h>
 
-#define EF 1000
+#define EF 1000//means EF replace by 1000
 #define NIL -1
 #define TRUE 1
 #define FALSE 0
